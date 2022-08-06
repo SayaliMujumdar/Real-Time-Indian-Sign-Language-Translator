@@ -3,6 +3,7 @@ In this Project I have tried creating a real time indian sign language translato
 The translator translates the gestures performed infront of the webcam.
 I have used CNN for alphabet recognition and Google's mediapipe for numbers recognition.
 I have tried implemting the CNN model with the help of parameters from the reference paper.
+While performing the gestures the background should be plain and it should have good lightning condition.
 
 Screenshots of Result:
 
