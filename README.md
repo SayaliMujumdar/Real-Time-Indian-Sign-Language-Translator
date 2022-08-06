@@ -5,6 +5,9 @@ I have used CNN for alphabet recognition and Google's mediapipe for numbers reco
 I have tried implemting the CNN model with the help of parameters from the reference paper.
 While performing the gestures the background should be plain and it should have good lightning condition.
 
+Indian Sign language Gestures :
+![image](https://user-images.githubusercontent.com/61038454/183257098-387c43b7-6d91-43d7-9408-742c32abf938.png)
+
 Screenshots of Result:
 
 
